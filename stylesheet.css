@@ -1,10 +1,10 @@
 body {
-    background: rgb(225, 150, 250);
+    background: rgb(225, 250, 50);
     font-family: sans-serif;
 }
 
 .header {
-    background-color: rgb(36, 89, 36);
+    background-color: rgb(136, 189, 36);
     color: white;
     padding: 5px 10px;
 }
