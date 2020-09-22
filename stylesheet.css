@@ -1,11 +1,10 @@
 body {
-    background: rgb(154, 0, 154);
-   
+    background: rgb(154, 0, 154);   
 }
 
 .header {
     background-color: rgb(220, 9, 230);
-    color: white;
+    color: purple;
     padding: 5px 10px;
 }
 
