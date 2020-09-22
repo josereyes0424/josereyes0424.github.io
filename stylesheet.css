@@ -1,6 +1,6 @@
 body {
-    background: rgb(225, 250, 50);
-    font-family: sans-serif;
+    background: rgb(225, 220, 20);
+   
 }
 
 .header {
@@ -10,7 +10,7 @@ body {
 }
 
 .footer {
-    background-color: rgb(186, 222, 187);
+    background-color: rgb(186, 222, 137);
     padding: 6px;
     clear: both;
 }
